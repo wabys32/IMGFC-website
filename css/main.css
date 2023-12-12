@@ -18,3 +18,14 @@
     margin-top: 0rem;
     /*background-color: rebeccapurple;*/
 }
+
+#themeSwitcher{
+    border-radius: 999px;
+    outline: none;
+    border: none;
+    font-weight: bolder;
+    background-color: white;
+    color: black;
+    margin-left: 40px;
+    cursor: pointer;
+}
