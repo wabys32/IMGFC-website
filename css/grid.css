@@ -16,7 +16,8 @@ body{
     padding: 1rem;
     display: grid;
     gap: 1rem;
-    background-color: #1c1b25;
+    background-color: #1c1c1c;
+    border-radius: 10px;
 }
 
 @media (min-width: 600px) {
